@@ -1,0 +1,2 @@
+El comando para ejecutar un "Dump Traffic" es <<Sudo tcpdump -i eth0>>
+fin
