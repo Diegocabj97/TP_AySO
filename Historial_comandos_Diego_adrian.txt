@@ -1,0 +1,410 @@
+cd /
+ls -la
+cd /home
+ls -la
+cd /vagrant
+cd vagrant
+ls -la
+cd carpeta_compartida
+ls -la
+grep -i ip Vagrantfile
+exit
+vagrant halyt
+vagrant ssh
+pwd
+ls
+cd
+ls
+cd /
+ls
+ls -la
+vagrant 
+man ls
+ls -l -a
+ls -la
+ls -l -a
+cd usr
+cd
+ls
+cd usr
+cd /
+cd usr
+ls
+cd ,,
+cd /
+ls
+cd etc/
+ls
+cat passwd
+cd --
+cd ..
+cd /
+cd ..
+cd / etc
+cd etc/
+cd ..
+cd var
+cd log
+ls -la
+cd journal
+ls -la
+cd systemd-journal
+cd ..
+cd /
+pwd 
+echo $HOME
+cd /home/vagrant
+ls -la
+cd carpeta_compartida/
+ls -la
+cd ..
+ls -la
+cp README carpeta_compartida
+cd carpeta_compartida
+ls -la
+cd ..
+ls -la
+cp README carpeta_compartida
+cd carpeta_compartida
+ls -la
+ls --all
+cd
+ls -la
+cd carpeta_compartida
+ls -la
+ls -all
+ssh-keygen
+ls
+cd /
+cd ls
+ls
+cd/home
+cd /home
+ls
+cd vagrant
+ls
+ls -la
+cd .ssh
+ls -la
+cat id_rsa
+cp .ssh
+cd
+ls -la
+cd .ssh
+ls -la
+cp ip_rsa.pub
+cat id_rsa.pub
+cd /home/vagrant
+ls .la
+ls -la
+cd .ssh
+ls -la
+cat id_rsa.pub
+ssh-rsa AAAAB3NzaC1yc2EAAAADAQABAAABgQCLuyRJXYpCe7JcBmwjgX6fnPsHwplgJX1m/nXg1oScPjrtvtDDZ4RPp9he6lJNpoUG1rtnAOsPANoIsgPIdI5ByO7GJxiPSE8aBIQBuifKhoHVCJVjZBNcj4tcHOO8DhA8pclms2fSE0RPQO6IPCsipdzSJffyv34Yemp7iX54UlwHAIrbrb7dvpq4/h+kl/ItjY4t4Ho7sClzeJQzQkfi5AOGWZM8Y1f9qtqKLwCURViXEPvHPrECTxJcvdK3HDqNLnxqcCNeGgwsfrtGF6H8H0meLz4tjQQMOnLPfey0CVm5oOLagCpqvebMIGC2F1mhS0hgkFZNw4BmOj0MsUaQDtMCOPmj5oCNTrhqE5ZiTZxOT0X5hz1U2ycB8dkSUAni5dtA103gGwqxMRHKClPaNnUkx0ct7lYIt5tLtW+kRehNswV+PVG/fSTgy0xND0CJtJo+o6tEx7SA6+VFIX7fk6LTmZX5UJM6/9OeHhLHgOPLxvqM+5YXrnQJehvE6j8= vagrant@VMPruebas
+ssh-rsa AAAAB3NzaC1yc2EAAAADAQABAAABgQCLuyRJXYpCe7JcBmwjgX6fnPsHwplgJX1m/nXg1oScPjrtvtDDZ4RPp9he6lJNpoUG1rtnAOsPANoIsgPIdI5ByO7GJxiPSE8aBIQBuifKhoHVCJVjZBNcj4tcHOO8DhA8pclms2fSE0RPQO6IPCsipdzSJffyv34Yemp7iX54UlwHAIrbrb7dvpq4/h+kl/ItjY4t4Ho7sClzeJQzQkfi5AOGWZM8Y1f9qtqKLwCURViXEPvHPrECTxJcvdK3HDqNLnxqcCNeGgwsfrtGF6H8H0meLz4tjQQMOnLPfey0CVm5oOLagCpqvebMIGC2F1mhS0hgkFZNw4BmOj0MsUaQDtMCOPmj5oCNTrhqE5ZiTZxOT0X5hz1U2ycB8dkSUAni5dtA103gGwqxMRHKClPaNnUkx0ct7lYIt5tLtW+kRehNswV+PVG/fSTgy0xND0CJtJo+o6tEx7SA6+VFIX7fk6LTmZX5UJM6/9Oclear
+cd ..
+ls -la
+cp README carpeta_compartida
+cd carpeta_compartida
+ls
+cc hola
+-help
+help
+cd
+cd help
+git init
+git config
+git config --global
+git help
+git remote add
+git remote add https://github.com/Diegocabj97/ARQ-y-S.O
+git add
+git add README
+git commit -m "hola"
+git config --global user.email "diegojadrian97@gmail.com
+git config --global user.name "diegocabj97"
+git add README
+git commit -m "hola"
+git add .
+
+asd
+asdsa
+dsa
+git add. 
+git help
+cd /home/vagrant
+ls -la
+git add README
+git commit -m "hola"
+git config --global user.email "diegojadrian97@gmail.com"
+git config --global user.name "Diegocabj97"
+git commit -m "hola"
+git push
+git remote add VM Pruebas https://github.com/Diegocabj97/ARQ-y-S.O
+git remote add VMPruebas https://github.com/Diegocabj97/ARQ-y-S.O
+git commit -m "hola"
+git push
+git push prueba
+git push ARQ-y-S.O
+git commit -m "hola"
+git add README
+git commit -m "hola"
+ls -la
+git add README
+git commit -m "hola"
+cd /carpeta_compartida
+cd
+ls -la
+cd carpeta_compartida
+ls -la
+git add README
+git remote add https://github.com/Diegocabj97/ARQ-y-S.O.git
+cd /home/vagrant/carpeta_compartida
+ls -la
+git add README
+git init
+git config --global init.defaultBranch main
+git add README
+git commit -m "Hola"
+git remote add [200~
+git remote add https://github.com/Diegocabj97/ARQ-y-S.O.git
+git remote add firstCommit https://github.com/Diegocabj97/ARQ-y-S.O.git
+git push
+git remote add firstCommit https://github.com/Diegocabj97/ARQ-y-S.O.git
+git push firstCommit
+git remote add firstCommit https://github.com/Diegocabj97/ARQ-y-S.O.git
+git push firstCommit
+ssh -T -p 443 git@ssh.github.com
+git push firstCommit
+ssh -T diegocabj97@github.com
+git help
+git help account
+git help connect
+vagrant halt
+ssh-keygen
+cd
+ls -la
+cat README
+cat << FIN > texto.txt
+Hola que tal
+este es un archivo de texto inventado por mi
+FIN
+
+cat texto.txt
+bc
+ads
+bc <<< 6*4
+man wc
+asd
+echo "hola mundo"
+echo "hola mundo" | wc
+echo asd | wc
+ls -la
+cat texto.txt | wc
+tail texto.txt -n 4
+tail texto.txt -n 1
+cat texto.txt
+cat texto.txt | head -n 1
+cat texto.txt | tail -n 1
+cat texto.tx | head -n 3 | grep -n tal
+ls -la
+cat texto.tx | head -n 3 | grep -n tal
+cat texto.txt | head -n 3 | grep -n tal
+cat texto.txt | head -n 3 | grep -n linea
+cat texto.txt | head -n 3 | grep -n text
+cd proc
+ls -la
+cd carpeta_compartida
+cd proc
+ls -la
+cd vagrantfile
+cd -i vagrantfile
+cd Vagrantfile
+ls -la
+cd .vagrant
+ls -la
+cd machines
+ls -la
+cd ..
+ls -la
+cd ..
+ls -la
+cd ..
+ls -la
+cd ubuntu
+ls -la
+cd vagrant
+ls -la
+cd /home
+ls -la
+cd ..
+ls -la
+cd proc
+ls -la
+grep -i proce
+asd
+ls -la
+cd /
+ls -la
+cd proc
+grep -i proce cpuinfo
+grep -i pr cpuinfo
+nproc
+man less
+less
+man less
+cat cpuinfo | less
+cat cpuinfo
+cat cpuinfo | less
+cat cpuinfo | more
+clear
+cat cpuinfo | less
+vagrant down
+cd /
+ls -la
+cd repogit
+ls -la
+cd TP_AySO
+ls -la
+cat /home/proc
+cat /etc/passwd
+cat /etc/passwd | grep -i "nologin"
+cat /etc/passwd | grep -i "nologin" head -n1
+cat /etc/passwd | grep -i "nologin" -head -n1
+cat /etc/passwd | grep -i "nologin" head n1
+cat /etc/passwd | grep -i "nologin" head -n 1
+cat /etc/passwd | grep -i "nologin" head -n 
+cat /etc/passwd | grep -i "nologin" tail -n 
+cat /etc/passwd | grep tail -n 
+cat /etc/passwd | grep tail -n3
+cat /etc/passwd | grep "nologin"tail -n3
+cat /etc/passwd | grep "nologin" tail -n3
+cat /etc/passwd | grep "nologin"
+cat /etc/passwd | grep "nologin" tail -n3
+cat /etc/passwd | grep "nologin"
+cat /etc/passwd | grep -v "nologin"
+cat /etc/passwd | grep -v "nologin" [3-8]
+cat /etc/passwd | grep -v "nologin" sort [3-8]
+cat /etc/passwd | grep -v "nologin" sort[3-8]
+cat /etc/passwd | grep -v "nologin" sort 3-8
+cat /etc/passwd | grep -v "nologin"
+cat /etc/passwd | grep -v "nologin" | head -n1
+cat /etc/passwd | grep -v "nologin" | head -n10
+cat /etc/passwd | grep -v "nologin" | head -n10 | sort [3-5]
+cat /etc/passwd | grep -v "nologin" | head -n10 | sort[3-5]
+cat /etc/passwd | grep -v "nologin" | head -n10 | sort 
+cat /etc/passwd | grep -v "nologin" | head -n10 | sort 3-5
+cat /etc/passwd | grep -v "nologin" | head -n10 | sort 3
+cat /etc/passwd | grep -v "nologin" | head -n10 | sort 7
+cat /etc/passwd | grep -v "nologin" | head -n10 | sort -col 7
+cat /etc/passwd | grep -v "nologin" | head -n10 | sort -co
+sort --help
+man sort
+cat /etc/passwd | grep -v "nologin" | head -n10 | sort key
+man sort
+cat /etc/passwd | grep -v "nologin" | head -n10 | sort -k 
+cat /etc/passwd | grep -v "nologin" | head -n10 | sort -k 7
+cat /etc/passwd | grep -v "nologin" | head -n10 | sort -k 3
+cat /etc/passwd | grep -v "nologin" | head -n10 | sort -k 4
+cat /etc/passwd | grep -v "nologin" | head -n10 | sort -k 1
+cat /etc/passwd | grep -v "nologin" | head -n10 | sort -k 2
+cat /etc/passwd | grep -v "nologin" | head -n10 | sort -k 3
+cat /etc/passwd | grep -v "nologin" | head -n10 | sort -k 7
+man sort
+cat /etc/passwd | grep -v "nologin" | head -n10 | sort -key 7
+cat /etc/passwd | grep -v "nologin" | head -n10 | sort --key 7
+cat /etc/passwd | grep -v "nologin" | head -n10 | sort -KEYDEF 7
+sort man
+man srt
+man sot
+man sort
+cat /etc/passwd | grep -v "nologin" | head -n10 | sort --KEYDEF 7
+cat /etc/passwd | grep -v "nologin" | head -n10 | sort -k 7
+cat /etc/passwd | grep -v "nologin" | head -n10 | sort --k 7
+man sort
+cat /etc/passwd | grep -v "nologin" | head -n10 | sort --k [7]
+cat /etc/passwd | grep -v "nologin" | head -n10 | sort -k [7]
+cat /etc/passwd | grep -v "nologin" | head -n10 | sort -k [7-7]
+cat /etc/passwd | grep -v "nologin" | head -n10 | sort -k [6-7]
+man sort
+cat /etc/passwd | grep -v "nologin" | head -n10 | sort -k [6].[7]
+cat /etc/passwd | grep -v "nologin" | head -n10 | sort -k [6][7]
+man sort
+cat /etc/passwd | grep -v "nologin" | head -n10 | sort -k 6[.7]
+cat /etc/passwd | grep -v "nologin" | head -n10 | sort -k f[.7]
+cat /etc/passwd | grep -v "nologin" | head -n10 | sort -k F[.7]
+cat /etc/passwd | grep -v "nologin" | head -n10 | sort -k F1[.7]
+cat /etc/passwd | grep -v "nologin" | head -n10 | sort -k 1[.7]
+cat /etc/passwd | grep -v "nologin" | head -n10 | sort -k 1[7]
+man sort
+cat /etc/passwd | grep -v "nologin" | head -n10 | sort --key 1[7]
+cat /etc/passwd | grep -v "nologin" | head -n10 | sort --key 1[.7]
+man sort
+cat /etc/passwd | grep -v "nologin" | head -n10 | sort 
+cat /etc/passwd | grep -v "nologin" | head -n10 | sort -n 1
+cat /etc/passwd | grep -v "nologin" | head -n10 | sort -n
+cat /etc/passwd | grep -v "nologin" | head -n10 | sort -k 7
+cat /etc/passwd | grep -v "nologin" | head -n10 | sort -k 3
+cat /etc/passwd | grep -v "nologin" | head -n10 | sort -k 2
+cat /etc/passwd | grep -v "nologin" | head -n10 | sort -k 9
+cat /etc/passwd | grep -v "nologin" | head -n10 | sort -k 7
+cat /etc/passwd | grep -v "nologin" | head -n10 | sort --key 7
+cat /etc/passwd | grep -v "nologin" | head -n10 | sort -k 7
+cat /etc/passwd | grep -v "nologin" | head -n10 | sort -k 7 >> lista_ordenada.txt
+cat lista_ordenada.txt
+git commit -m "ADD: Listado de usuarios ordenada"
+git add .
+git commit -m "ADD: Listado de usuarios ordenada"
+cat <<FIN > comando_dump_net.txt
+El comando para ejecutar un "Dump Traffic" es <<Sudo tcpdump -i eth0>>
+fin
+FIN
+
+git add .
+git commit -"comando_dump_net"
+git commit -m "comando_dump_net"
+git commit -m "ADD: Comando para Capturar y analizar el tráfico de red"
+ls -la
+cd .git
+ls -la
+cd ..
+ls -la
+cat <<FIN > README.md
+Alumno: Diego Adrian
+División: Division 116-2
+Turno: Turno Mañana
+FIN
+
+git add .
+git commit -"Commit de mis datos académicos"
+git commit -m "Commit de mis datos académicos"
+pwd
+history -a 
+cat history -a 
+pwd
+pwd history -a
+history -a
+cd /home
+ls -la
+cd vagrant
+ls -la
+cd .bash_history
+cat .bash_history
+l -la
+cd /home
+ls -la
+cd vagrant
+ls -la
+cd /home/vagrant/
+cat /home/vagrant/.bash_history
+cat history-a >> /home/vagrant/.bash_history
+cat history-a
+history -a
+cd /home/vagrant
+ls -la
+cd repogit
+ls -la
+cd TP_AySO
+ls -la
+cat history -a
+history -a
